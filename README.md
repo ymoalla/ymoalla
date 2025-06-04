@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yassine MOALLA</h1>
 <h3 align="center">Python fullstack developer</h3>
 
-- 🔭 I’m currently working on [Django/Python web app application development](https://github.com/ymoalla/QADAPI)
+- 🔭 I’m currently working on https://github.com/ymoalla/scraping
 
-- 🌱 I’m currently learning **Web scrapping and automation using python**
+- 🌱 I’m currently learning **Machine Learning using python**
 
-- 👯 I’m looking to collaborate on **Machine Learning project using python**
+- 👯 I’m looking to collaborate on **Machine Learning projects using python**
 
 - 🤝 I’m looking for help with **Web scrapping and automation using python**
 
-- 💬 Ask me about **Python Django OpenAI**
+- 💬 Ask me about **Python Django**
 
 - 📫 How to reach me **yassine.moalla@smc2i.tn**
 
