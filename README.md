@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassine MOALLA</h1>
-<h3 align="center">Python fullstack developer</h3>
+<h3 align="center">AI Developer & Software Engineer</h3>
 
-- 🔭 I’m currently working on https://github.com/ymoalla/scraping
+- 🔭 I’m currently working on **Generative AI**
 
 - 🌱 I’m currently learning **Machine Learning using python**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Web scrapping and automation using python**
 
-- 💬 Ask me about **Python Django**
+- 💬 Ask me about **Python, Django, FastAPI, OpenAI**
 
 - 📫 How to reach me **yassine.moalla@smc2i.tn**
 
